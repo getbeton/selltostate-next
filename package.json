@@ -1,0 +1,10 @@
+{
+  "name": "selltostate-next-example",
+  "private": true,
+  "dependencies": {
+    "selltostate": "github:getbeton/selltostate-ts",
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  }
+}
